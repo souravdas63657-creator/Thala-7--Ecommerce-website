@@ -319,14 +319,14 @@ header {
 }
 
 .price {
-  padding: 1rem 2rem;
+  padding: 1.4rem 2rem;
   border: none;
   background-color: #e6e8ea;
   border-radius: 8px;
   text-align: center;
   font-weight: bold;
   color: var(--orange);
-  font-size: 1rem;
+  font-size: 1.5rem;
 }
 
 .cart-count {
