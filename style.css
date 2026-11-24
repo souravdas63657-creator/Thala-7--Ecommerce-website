@@ -326,6 +326,7 @@ header {
   text-align: center;
   font-weight: bold;
   color: var(--blue);
+  font-size: 1rem;
 }
 
 .cart-count {
